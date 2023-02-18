@@ -24,10 +24,10 @@ int main(void)
 	if (d == '8' && p == '9')
 	continue;
 	putchar(',');
-	putchat(' ');
+	putchar(' ');
 	}
 	}
 	}
 	putchar('\n');
-	return (0)'
+	return (0);
 }
